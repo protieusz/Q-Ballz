@@ -2,7 +2,7 @@
 Q-Ballz, inspired by an anime with 2 trackballs, 2x CORE-A Mcus, 34 keys, 10 RGBs
 
 # Description
-Case design shape was inspired by a Zeon prototype mobile suit, [Qubeley](https://gundam.fandom.com/wiki/AMX-004_Qubeley), the most underrated MS from the Gundam Zeta series hence the name "Q-Ballz". Q-Ballz uses 2 trackballs as the previous OverLord, where this time the top ball is mouse movement and bottom is scrolling. The size of the custom keeb design is similar size to
+Case design shape was inspired by a Neo Zeon prototype mobile suit, [Qubeley](https://gundam.fandom.com/wiki/AMX-004_Qubeley), the most underrated MS from the Gundam Zeta series hence the name "Q-Ballz". Q-Ballz uses 2 trackballs as the previous OverLord, where this time the top ball is mouse movement and bottom is scrolling. The size of the custom keeb design is similar size to
 Sachiel or the Excelsior.  Nice and compact for office use and wow factor with 10 RGBs on the vents and eyes. There might be some flaws on the "notches" that clips both top and bottom case together. Slight oversight but can make it work
 with tiny DIY. Print at your own risk.
 
