@@ -20,6 +20,11 @@ Sept 18, 2024: PCB print will not be printed until October ish since my PMW3360 
 ![Screenshot 2024-09-15 at 11 56 25 PM](https://github.com/user-attachments/assets/5397ba8c-584c-4776-a9ec-e5d1f23d3429)
 ![Screenshot 2024-09-15 at 11 56 35 PM](https://github.com/user-attachments/assets/d342e1f0-e7dc-4d11-9788-f9141f1fea21)
 
+![Screenshot 2024-09-18 at 3 20 47 PM](https://github.com/user-attachments/assets/0360e0e7-4328-4884-8eca-0afa270354d1)
+![Screenshot 2024-09-18 at 3 21 07 PM](https://github.com/user-attachments/assets/06cb01e0-4ad0-4ad6-9ef6-f6f5e8a8feb6)
+![Screenshot 2024-09-18 at 3 21 19 PM](https://github.com/user-attachments/assets/ca48a3d8-c47b-4c28-99f4-522bdaaae1dd)
+![Screenshot 2024-09-18 at 3 21 29 PM](https://github.com/user-attachments/assets/40a09148-8304-4dfa-84c0-6d9804fe93ec)
+
 ![Screenshot 2024-09-18 at 9 23 16 AM](https://github.com/user-attachments/assets/0c7e8b56-076b-448c-ba10-6614b99c8910)
 ![Screenshot 2024-09-18 at 9 23 30 AM](https://github.com/user-attachments/assets/711ae62b-3110-42c2-9638-b7bd4f9b016e)
 
