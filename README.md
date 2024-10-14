@@ -9,7 +9,7 @@ with tiny DIY. Print at your own risk.
 Sept 18, 2024: PCB print will not be printed until October ish since my PMW3360 sensors and SA keycaps have not arrive yet. I am very excited for this build design.
 
 # Disclaimer
-This work is a non-commercial fan creation of custom keyboard case and PCB in the shape of Qubeley from the Gundam Zeta series. It is made out of love and respect for the Gundam Zeta series. All rights to Gundam and related content are owned by Bandai Namco Holdings Inc and its associated companies. The images, names, storylines and other elements of Gundam used in this work are the property of their respective copyright holders. Unauthorized commercial use is strictly prohibited. The license of this design reflects not for commercial use.
+This work is a non-commercial fan creation of custom keyboard case and PCB in the shape of Qubeley from the Gundam Zeta series. It is made out of love and respect for the Gundam Zeta series. All rights to Gundam and related content are owned by Bandai Namco Holdings Inc and its associated companies. The images, names, storylines and other elements of Gundam used in this work are the property of their respective copyright holders. Unauthorized commercial use is strictly prohibited. The license of this design reflects not for commercial use. Only the PCB files, QMK source will be open source. The case files due to copyright issues will not be open sourced.
 
 Please print and use the case and PCB at your own risk. QMK code is derived from the QMK documentation and copy over from my OverLord build.
 
