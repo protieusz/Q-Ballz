@@ -36,12 +36,7 @@ Oct 17, 2024
 ![IMG_2994](https://github.com/user-attachments/assets/bad49670-51b8-4381-ab5d-02175b2efa55)
 ![IMG_2993](https://github.com/user-attachments/assets/037f17cd-7bba-48b0-8835-f702ccdbfe69)
 
-# Renders & Partial Builds
-
-![IMG_2993](https://github.com/user-attachments/assets/5724c45c-5ebe-4f60-a6bd-61eba5032a56)
-![IMG_2996](https://github.com/user-attachments/assets/a9ae41dd-7b20-46de-9888-4392c0b3913f)
-![IMG_2994](https://github.com/user-attachments/assets/16900772-15b3-4ad8-b470-6e369eb6fae4)
-![IMG_2995](https://github.com/user-attachments/assets/b6177132-7e7e-41c9-be6e-6f282844e87b)
+# Renders
 
 ![Screenshot 2024-09-15 at 11 56 09 PM](https://github.com/user-attachments/assets/102ec68e-64e1-4807-a391-3a428c4114c7)
 ![Screenshot 2024-09-15 at 11 55 55 PM](https://github.com/user-attachments/assets/728c02e0-34e5-42b7-bdbf-cd8f7b6de592)
