@@ -13,6 +13,29 @@ This work is a non-commercial fan creation of custom keyboard case and PCB in th
 
 Please print and use the case and PCB at your own risk. QMK code is derived from the QMK documentation and copy over from my OverLord build.
 
+# Full Build
+Oct 17, 2024
+
+![IMG_3211](https://github.com/user-attachments/assets/de9f9f45-6352-4f11-8e68-2f5599638c53)
+![IMG_3212](https://github.com/user-attachments/assets/95a890a5-0e45-4424-a7e1-dc23ce63500e)
+![IMG_3209](https://github.com/user-attachments/assets/f474a0c6-d6d5-4988-9986-08aeeddf2f95)
+![IMG_3208](https://github.com/user-attachments/assets/3d2a386e-9eb5-47a9-bc2b-fdfbbb358fa8)
+![IMG_3207](https://github.com/user-attachments/assets/a8b72120-7601-4c49-898a-e23c3599ef5b)
+![IMG_3206](https://github.com/user-attachments/assets/ea251b17-400e-4148-a2ab-f4b12a092601)
+![IMG_3205](https://github.com/user-attachments/assets/fd53090b-0075-4154-971f-814dde1b4eec)
+![IMG_3202](https://github.com/user-attachments/assets/7ed57b6d-e4a2-42b7-aa1b-e3fd75118260)
+![IMG_3201](https://github.com/user-attachments/assets/a2d54511-30e9-4fa7-86d4-79e720ba365a)
+![IMG_3200](https://github.com/user-attachments/assets/484714c2-c499-4bc7-aa5e-9a87afcd9b3c)
+![IMG_3195](https://github.com/user-attachments/assets/7a717939-df08-4832-991c-cd5c7a9e0451)
+![IMG_3081](https://github.com/user-attachments/assets/9ba4eff2-a0ae-443d-9c47-efba7db40b11)
+![IMG_3057](https://github.com/user-attachments/assets/ef8ce847-d919-4762-8dbf-34830d23a424)
+![IMG_3058](https://github.com/user-attachments/assets/fab2e2fe-87e7-4f82-a561-0162cf0b8657)
+![IMG_2997](https://github.com/user-attachments/assets/a9fa5e6c-356e-4df8-aa6d-3f91c6799495)
+![IMG_2996](https://github.com/user-attachments/assets/62b7c7d1-da3e-4fcf-9bbd-6fb2323910d5)
+![IMG_2995](https://github.com/user-attachments/assets/1f0c1ea2-3bb6-4a04-87d8-e4057fb53b80)
+![IMG_2994](https://github.com/user-attachments/assets/bad49670-51b8-4381-ab5d-02175b2efa55)
+![IMG_2993](https://github.com/user-attachments/assets/037f17cd-7bba-48b0-8835-f702ccdbfe69)
+
 # Renders & Partial Builds
 
 ![IMG_2993](https://github.com/user-attachments/assets/5724c45c-5ebe-4f60-a6bd-61eba5032a56)
