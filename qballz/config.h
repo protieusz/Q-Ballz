@@ -30,13 +30,13 @@
 #    define SPI_MOSI_PIN GP11
 
 // RGB Settings
-#define WS2812_DI_PIN GP0
-
-#ifdef RGBLIGHT_ENABLE
+//#ifdef RGBLIGHT_ENABLE
     //#define RGBLIGHT_LED_COUNT 5
     #define WS2812_PIO_USE_PIO1
+    #define WS2812_DI_PIN GP0
     #define RGBLIGHT_SPLIT
-    #define RGBLED_NUM 10
+    //#define RGBLED_NUM 10
+    #define RGBLIGHT_LED_COUNT 10
     #define RGBLED_SPLIT { 5, 5 }
     #define RGBLIGHT_LIMIT_VAL 80
     #define RGBLIGHT_HUE_STEP 10
@@ -52,7 +52,7 @@
     #define RGBLIGHT_EFFECT_STATIC_GRADIENT
     #define RGBLIGHT_EFFECT_TWINKLE
     #define RGBLIGHT_EFFECT_ALTERNATING
-#endif
+//#endif
 
 // PMW3360 settings
 //#    define PMW3360_CPI 12000
