@@ -1,7 +1,8 @@
-MOUSEKEY_ENABLE     	= yes
-BOOTMAGIC_ENABLE    	= yes
-COMBO_ENABLE		    = yes
-SERIAL_DRIVER           = vendor
+MOUSEKEY_ENABLE     	 = yes
+BOOTMAGIC_ENABLE    	 = yes
+COMBO_ENABLE		       = yes
+SERIAL_DRIVER          = vendor
 POINTING_DEVICE_ENABLE = yes
 POINTING_DEVICE_DRIVER = pmw3360
 WS2812_DRIVER = vendor
+RGBLIGHT_ENABLE 		   = yes
