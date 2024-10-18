@@ -6,7 +6,7 @@ Case design shape was inspired by a Neo Zeon prototype mobile suit, [Qubeley](ht
 Sachiel or the Excelsior.  Nice and compact for office use and wow factor with 10 RGBs on the vents and eyes. There might be some flaws on the "notches" that clips both top and bottom case together. Slight oversight but can make it work
 with tiny DIY. Print at your own risk.
 
-Oct 17, 2024: Q-Ballz full build but only RIGHT side RGBs are fully working. Voltage and continuity all checks out. So I suspect it might be the QMK code.  Hopefully the QMK code can be fixed.
+Oct 17, 2024: Q-Ballz fully build but only RIGHT side RGBs are fully working. Voltage and continuity all checks out. So I suspect it might be the QMK code.  Hopefully the QMK code can be fixed.
 As for the effect of having set color RGBs for each sides, I tried using transparent colored plastic but it turns out that they are too thin and the RGB lights overpowered it. If someone can program where the RGBs on the right are always constant Blue for the circle vents while the Right eye is Pink, right vents pink while the rest of the LEFT side is pink. Anywayz Qubeley custom keeb mission accomplished.
 
 Sept 18, 2024: PCB print will not be printed until October ish since my PMW3360 sensors and SA keycaps have not arrive yet. I am very excited for this build design.
