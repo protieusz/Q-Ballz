@@ -31,13 +31,11 @@
 
 // RGB Settings
 //#ifdef RGBLIGHT_ENABLE
-    //#define RGBLIGHT_LED_COUNT 5
     #define WS2812_PIO_USE_PIO1
     #define WS2812_DI_PIN GP0
     #define RGBLIGHT_SPLIT
-    //#define RGBLED_NUM 10
     #define RGBLIGHT_LED_COUNT 10
-    #define RGBLED_SPLIT { 5, 5 }
+    #define RGBLED_SPLIT { 0, 10 }
     #define RGBLIGHT_LIMIT_VAL 80
     #define RGBLIGHT_HUE_STEP 10
     #define RGBLIGHT_SAT_STEP 17
