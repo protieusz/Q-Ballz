@@ -6,12 +6,12 @@ Case design shape was inspired by a Neo Zeon prototype mobile suit, [Qubeley](ht
 Sachiel or the Excelsior.  Nice and compact for office use and wow factor with 10 RGBs on the vents and eyes. There might be some flaws on the "notches" that clips both top and bottom case together. Slight oversight but can make it work
 with tiny DIY. Print at your own risk.
 
-Oct 19, 2024: Q-Ballz is fully build and functional. All RGBs on both sides are fully working. Thanks to **Drashna Jael're** from fingerpunch discord for helping me out with QMK part and validation of my solder hack. Please see below pic for the hack details.
+**Oct 19, 2024:** Q-Ballz is fully build and functional. All RGBs on both sides are fully working. Thanks to **Drashna Jael're** from fingerpunch discord for helping me out with QMK part and validation of my solder hack. Please see below pic for the hack details.
 
-Oct 17, 2024: Q-Ballz fully build but only RIGHT side RGBs are fully working. Voltage and continuity all checks out. So I suspect it might be the QMK code.  Hopefully the QMK code can be fixed.
+**Oct 17, 2024:** Q-Ballz fully build but only RIGHT side RGBs are fully working. Voltage and continuity all checks out. So I suspect it might be the QMK code.  Hopefully the QMK code can be fixed.
 As for the effect of having set color RGBs for each sides, I tried using transparent colored plastic but it turns out that they are too thin and the RGB lights overpowered it. If someone can program where the RGBs on the right are always constant Blue for the circle vents while the Right eye is Pink, right vents pink while the rest of the LEFT side is pink. Anywayz Qubeley custom keeb mission accomplished.
 
-Sept 18, 2024: PCB print will not be printed until October ish since my PMW3360 sensors and SA keycaps have not arrive yet. I am very excited for this build design.
+**Sept 18, 2024:** PCB print will not be printed until October ish since my PMW3360 sensors and SA keycaps have not arrive yet. I am very excited for this build design.
 
 # Disclaimer
 This work is a non-commercial fan creation of custom keyboard case and PCB in the shape of Qubeley from the Gundam Zeta series. It is made out of love and respect for the Gundam Zeta series. All rights to Gundam and related content are owned by Bandai Namco Holdings Inc and its associated companies. The images, names, storylines and other elements of Gundam used in this work are the property of their respective copyright holders. Unauthorized commercial use is strictly prohibited. The license of this design reflects not for commercial use. Only the PCB files, QMK source will be open source. The case files due to copyright issues will not be open sourced.
