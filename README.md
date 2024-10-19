@@ -6,7 +6,7 @@ Case design shape was inspired by a Neo Zeon prototype mobile suit, [Qubeley](ht
 Sachiel or the Excelsior.  Nice and compact for office use and wow factor with 10 RGBs on the vents and eyes. There might be some flaws on the "notches" that clips both top and bottom case together. Slight oversight but can make it work
 with tiny DIY. Print at your own risk.
 
-Oct 19, 2024: Q-Ballz is fully build and functional. All RGBs on both sides are fully working. Thanks to Drashna Jael're from fingerpunch discord for helping me out with QMK part and validation of my solder hack. Please see below pic for the hack details.
+Oct 19, 2024: Q-Ballz is fully build and functional. All RGBs on both sides are fully working. Thanks to **Drashna Jael're** from fingerpunch discord for helping me out with QMK part and validation of my solder hack. Please see below pic for the hack details.
 
 Oct 17, 2024: Q-Ballz fully build but only RIGHT side RGBs are fully working. Voltage and continuity all checks out. So I suspect it might be the QMK code.  Hopefully the QMK code can be fixed.
 As for the effect of having set color RGBs for each sides, I tried using transparent colored plastic but it turns out that they are too thin and the RGB lights overpowered it. If someone can program where the RGBs on the right are always constant Blue for the circle vents while the Right eye is Pink, right vents pink while the rest of the LEFT side is pink. Anywayz Qubeley custom keeb mission accomplished.
@@ -25,7 +25,7 @@ Oct 17, 2024
 ![IMG_3212](https://github.com/user-attachments/assets/95a890a5-0e45-4424-a7e1-dc23ce63500e)
 ![IMG_3225](https://github.com/user-attachments/assets/bac86274-ba73-4d51-bfdd-a5dbf08b8417)
 I had to think outside the box by making the RGBs working on both sides. I edit the config.h RGB split settings to (0, 10) to have all the RGBs sourced from the RIGHT side from all the RGBs.
-Then I solder the DOUT from the RIGHT side to the DIN of the LEFT for the RGBs and it worked! Shout out to Drashna Jael're from fingerpunch Discord channel for helping me out with QMK part and validation of my solder hack.
+Then I solder the DOUT from the RIGHT side to the DIN of the LEFT for the RGBs and it worked! Shout out to **Drashna Jael're** from fingerpunch Discord channel for helping me out with QMK part and validation of my solder hack.
 ![IMG_3222](https://github.com/user-attachments/assets/598e3dc3-078b-40e8-9858-de94830123d9)
 ![IMG_3223](https://github.com/user-attachments/assets/e6f33705-e204-4bf4-8afb-2243b88beb1f)
 ![IMG_3224](https://github.com/user-attachments/assets/8854c01b-e248-4cf3-ba23-ee59bb044101)
