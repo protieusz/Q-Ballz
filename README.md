@@ -24,7 +24,7 @@ Oct 17, 2024
 ![IMG_3211](https://github.com/user-attachments/assets/de9f9f45-6352-4f11-8e68-2f5599638c53)
 ![IMG_3212](https://github.com/user-attachments/assets/95a890a5-0e45-4424-a7e1-dc23ce63500e)
 ![IMG_3225](https://github.com/user-attachments/assets/bac86274-ba73-4d51-bfdd-a5dbf08b8417)
-I had to think outside the box by making the RGBs working on both sides. I edit the config.h RGB split settings to (0, 10) to have all the RGBs sourced from the RIGHT side from all the RGBs.
+I had to think outside the box by making the RGBs working on both sides. I edit the config.h RGB split settings to (0, 10) to have all the RGBs sourced from the RIGHT side for all the RGBs.
 Then I solder the DOUT from the RIGHT side to the DIN of the LEFT for the RGBs and it worked! Shout out to **Drashna Jael're** from fingerpunch Discord channel for helping me out with QMK part and validation of my solder hack.
 ![IMG_3222](https://github.com/user-attachments/assets/598e3dc3-078b-40e8-9858-de94830123d9)
 ![IMG_3223](https://github.com/user-attachments/assets/e6f33705-e204-4bf4-8afb-2243b88beb1f)
